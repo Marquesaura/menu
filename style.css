@@ -1,0 +1,9 @@
+header h1{
+ text-align: center;
+ color: green;
+ font-size: 45px;
+}
+.logo{
+    margin: 50px;
+    padding: 150px;
+}
